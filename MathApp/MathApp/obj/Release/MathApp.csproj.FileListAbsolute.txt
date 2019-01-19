@@ -1,0 +1,11 @@
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\bin\Release\MathApp.exe.config
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\bin\Release\MathApp.exe
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\bin\Release\MathApp.pdb
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.HistoryForm.resources
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.MainForm.resources
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.Properties.Resources.resources
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.csproj.GenerateResource.cache
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.exe
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.pdb
+C:\Users\阿琪\Desktop\新建文件夹\Shitty-Game\MathApp\MathApp\obj\Release\MathApp.csprojAssemblyReference.cache
