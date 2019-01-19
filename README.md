@@ -1,6 +1,5 @@
-<img src="https://github.com/Archie7777/Shitty-Game/blob/master/images/%E5%A4%A7%E4%BE%BF.png" align="center">
-
 <div align="center">
+<img src="https://github.com/Archie7777/Shitty-Game/blob/master/images/%E5%A4%A7%E4%BE%BF.png">
 <h1> Shitty-Game </h1>
 <p> 😆 🐷 🎈 🔞 🚩 😂 <p>
 <p><strong> Arithmetic-Problems-GUI </strong></p>
@@ -11,7 +10,7 @@
 BIN/MathApp.exe
 ```
 
-在BIN文件夹中执行。
+请在BIN文件夹中执行。
 
 ## 主界面预览
 
