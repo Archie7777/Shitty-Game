@@ -5,6 +5,14 @@
 <p><strong> Arithmetic-Problems-GUI </strong></p>
 </div>
 
+## 核心代码仓库
+[https://github.com/Archie7777/Arithmetic-Problems](https://github.com/Archie7777/Arithmetic-Problems)
+
+## 组内成员博客
+
+[阿琪](https://blog.csdn.net/weixin_43407283/article/details/86478548)
+[郭艺璇](https://blog.csdn.net/weixin_41709195/article/details/86515191)
+
 ## 可执行文件位置
 ```
 BIN/MathApp.exe
