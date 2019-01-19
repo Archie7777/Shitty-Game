@@ -15,7 +15,7 @@ BIN/MathApp.exe
 ## 主界面预览
 
 <div align="center">
-![](https://github.com/Archie7777/Shitty-Game/blob/master/images/%E4%B8%BB%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88.png)
+<img src="https://github.com/Archie7777/Shitty-Game/blob/master/images/%E4%B8%BB%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88.png">
 </div>
 
 ## 功能介绍：
